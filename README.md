@@ -21,3 +21,7 @@
 <h3>6 - Conexion Base de datos</h3>
 
 <img src="./public/images/Conexion.jpg" alt= "connection">
+
+<h3>7 - Muestra en pantalla</h3>
+
+<img src="./public/images/bd.jpg" alt= "bd">
