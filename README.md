@@ -6,6 +6,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2> Punto 1: </h2>
+<img src="./public/images/calculadora.jpg" alt= "operation">
 
 <h2> Punto 2: </h2>
 
