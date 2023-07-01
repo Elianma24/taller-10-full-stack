@@ -6,7 +6,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2> Punto 1: </h2>
-<img src="./public/images/calculadora.jpg" alt= "operation">
+<img src="./public/images/punto1.jpg" alt= "calculadora">
 
 <h2> Punto 2: </h2>
 <img src="./public/images/edad.jpg" alt= "edad">
@@ -15,7 +15,7 @@
 <img src="./public/images/datosusuario.jpg" alt= "datosusuario">
 
 <h2> Punto 4: </h2>
-<img src="./public/images/calculoedad.png" alt= "Calculoedad">
+<img src="./public/images/punto4.jpg" alt= "Calculoedad">
 
 <h2> Punto 5-6-7: </h2>
 <h3>5 - Base de datos</h3>
